@@ -15,7 +15,6 @@ h2 {
   line-height: 1.33;
   letter-spacing: 0.04em;
   color: #2e2f42;
-
   margin: 0;
   margin-bottom: 16px;
 }
@@ -25,7 +24,6 @@ h2 {
   padding: 16px;
   max-width: 392px;
   margin-bottom: 24px;
-
   background-color: #f6f6fe;
 }
 
@@ -35,7 +33,6 @@ h2 {
   width: 360px;
   height: 40px;
   padding: 8px 16px;
-
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
